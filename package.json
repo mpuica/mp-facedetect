@@ -1,0 +1,34 @@
+{
+  "name": "mp-facedetect",
+  "version": "1.0.0",
+  "description": "A node.js app to detect faces using openCV",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "busboy": "^0.2.9",
+    "connect-busboy": "0.0.2",
+    "easyimage": "^2.0.3",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "lodash": "^3.10.1",
+    "multer": "^1.0.3",
+    "opencv": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mpuica/mp-facedetect.git"
+  },
+  "keywords": [
+    "nodejs",
+    "opencv",
+    "face",
+    "detection"
+  ],
+  "author": "Mihail Puica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpuica/mp-facedetect"
+  }
+}
