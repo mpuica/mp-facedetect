@@ -3,3 +3,7 @@ _ignore
 .idea
 .DS_Store
 npm-debug.log
+uploads/*
+!uploads/.gitkeep
+public/images/*
+!public/images/.gitkeep

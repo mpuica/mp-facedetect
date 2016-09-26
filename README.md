@@ -5,10 +5,12 @@ A node.js app to detect faces using openCV
 [TBD]
 
 ###Limitations (ToDO) :
-[TBD]
+* Make it work with the webcam also
+* Remove handlebars template and replace it with an Angular.js frontend app.
 
 ### Dependencies
-[TBD]
+[OpenCV library](http://opencv.org/)
+
 
 ### Installation
 `npm install`
